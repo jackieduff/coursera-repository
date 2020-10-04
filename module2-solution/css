@@ -1,3 +1,4 @@
+<style>
 * {
   box-sizing: border-box;
 }
@@ -82,5 +83,6 @@ span {
   .col-sx-12 {
   	float: left;
     width: 100%;
+    </style>
   }
 }
