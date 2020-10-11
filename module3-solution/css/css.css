@@ -3,3 +3,6 @@
   border-radius: 5;
   border: 5;
 }
+.navbar-brand {
+  padding-top: 25px;
+}
