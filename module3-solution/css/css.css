@@ -63,7 +63,9 @@
 	font-weight: bold;
 	position: relative;
 }
-.section {
-	width: auto;
+.div.sectionwidth {
+	width = auto;
+	margin-left: 10px;
+	margin-right: 10x;
 	border: 1px solid black;
 }
