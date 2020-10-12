@@ -44,14 +44,23 @@
   display: block !important;
 }
 #chicken {
+	width: auto;
+	margin-left: 10px;
+	margin-right: 10px;
 	background-color: rgb(205, 219, 175);
 	color: rgb(0, 0, 0);
 }
 #beef {
+	width: auto;
+	margin-left: 10px;
+	margin-right: 10px;
 	background-color: rgb(74, 152, 114);
 	color: rgb(250, 250, 250);
 }
 #sushi {
+	width: auto;
+	margin-left: 10px;
+	margin-right: 10px;
 	background-color: rgb(164, 30, 112);
 	color: rgb(250, 250, 250);
 }
