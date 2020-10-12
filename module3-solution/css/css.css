@@ -17,6 +17,16 @@
 }
 .navbar .navbar-header {
   float: none;
+  padding-top: 25px;
+  font-family: 'Arial', serif;
+  color: #ff6f59;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 0.75;
 }
 .navbar .navbar-toggle {
   display: block;
