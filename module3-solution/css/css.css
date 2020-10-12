@@ -61,4 +61,5 @@
 }
 .header {
 	font.weight: bold;
+	position: relative;
 }
