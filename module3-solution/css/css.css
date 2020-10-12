@@ -59,3 +59,6 @@
 .row {
 	width: 100%;
 }
+.header {
+	font.weight: bold;
+}
