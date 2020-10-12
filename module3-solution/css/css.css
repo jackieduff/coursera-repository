@@ -43,3 +43,19 @@
 .navbar .navbar-collapse.collapse.in {
   display: block !important;
 }
+#chicken {
+	background-color: rgb(205, 219, 175);
+	color: rgb(0, 0, 0);
+}
+#beef {
+	background-color: rgb(74, 152, 114);
+	color: rgb(250, 250, 250);
+}
+#sushi {
+	background-color: rgb(164, 30, 112);
+	color: rgb(250, 250, 250);
+}
+
+.row {
+	width: 100%;
+}
