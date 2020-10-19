@@ -22,9 +22,9 @@ window.byeSpeaker = byeSpeaker;
 		var name = names[i];
 		var firstLetter = name.charAt(0).toLowerCase();
 		if (firstLetter === 'j') {
-			console.log(byeSpeaker.sayGoodbye(name));
+			byeSpeaker.sayGoodbye(name);
 		} else {
-			console.log(helloSpeaker.sayHello(name));
+			helloSpeaker.sayHello(name);
 		}
 	}
 })();
